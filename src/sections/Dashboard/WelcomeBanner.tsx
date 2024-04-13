@@ -109,7 +109,7 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('', '_blank')}>
          ✡ Buy Token ✡
         </button>
-        <button onClick={() => window.open('https://twitter.com/PUMP_FUN_CASINO', '_blank')}>
+        <button onClick={() => window.open('https://twitter.com/israel_casino', '_blank')}>
          ✡ Join X ✡
         </button>
       </Buttons>
